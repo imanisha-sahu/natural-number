@@ -1,0 +1,12 @@
+public class SumOfNaturalNumber1  
+{  
+public static void main(String[] args)   
+{    
+//executes until the condition returns true  
+{  
+//adding the value of i into sum variable  
+sum = sum + i;  
+}    
+System.out.println("Sum of First 10 Natural Numbers is = " + sum);  
+}  
+}  
